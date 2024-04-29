@@ -27,7 +27,7 @@ spring:
       on-profile: dev
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: "jaewon"
+    username: "root"
     password: "Zmfhdnwm0="
     url: "jdbc:mysql://localhost/library"
 
